@@ -101,16 +101,29 @@ body {
 
 @media (max-width: 600px) {
   #menu {
-    margin-left: 10%;
+    margin-left: 20%;
+    margin-top: 5%;
+    text-align: center;
+    border: solid 3px orange;
+    border-radius: 10%;
+    height: 200px;
+    width: 300px;
+    background-color: cadetblue;
   }
 
   .botella {
-    margin-top: 220px;
+    height: 100px;
+    width: 100px;
+    margin-top: 188px;
     margin-left: 17px;
+  }
+  .caida {
+    height: 100x;
+    width: 100px;
   }
   #botella h3 {
     text-align: center;
-    margin-top: 40px;
+    margin-top: 65px;
     margin-right: 20%;
     font-size: 15px;
   }

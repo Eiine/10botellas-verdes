@@ -56,9 +56,6 @@ body {
     transform: rotate(90deg);
   }
 }
-<<<<<<< HEAD
-
-=======
 #menu {
   margin-left: 35%;
   margin-top: 5%;
@@ -92,7 +89,6 @@ body {
 .borrar {
   display: none;
 }
->>>>>>> 8d0ad31 (Definido el modelo para celular y para pc)
 #musica {
   display: none;
 }

@@ -98,3 +98,20 @@ body {
   margin-top: 90px;
   margin-right: 60%;
 }
+
+@media (max-width: 600px) {
+  #menu {
+    margin-left: 10%;
+  }
+
+  .botella {
+    margin-top: 220px;
+    margin-left: 17px;
+  }
+  #botella h3 {
+    text-align: center;
+    margin-top: 40px;
+    margin-right: 20%;
+    font-size: 15px;
+  }
+}

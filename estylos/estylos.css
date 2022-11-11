@@ -101,7 +101,7 @@ body {
 
 @media (max-width: 412px) {
   #menu {
-    margin-left: 20%;
+    margin-left: 10%;
     margin-top: 5%;
     text-align: center;
     border: solid 3px orange;
@@ -112,14 +112,14 @@ body {
   }
 
   .botella {
-    height: 100px;
-    width: 100px;
+    height: 80px;
+    width: 80px;
     margin-top: 210px;
     margin-left: 17px;
   }
   .caida {
-    height: 100x;
-    width: 100px;
+    height: 80px;
+    width: 80px;
   }
   #botella h3 {
     text-align: center;
